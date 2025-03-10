@@ -8,7 +8,7 @@ import lombok.Data;
  * @author Guo XiaoYong
  */
 @Data
-public class WorkflowModelDef {
+public class WorkflowDef {
   /** 名称 */
   private String name;
 
